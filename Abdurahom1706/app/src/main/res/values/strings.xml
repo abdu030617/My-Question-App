@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Abdurahom 1706</string>
+    <string name="df">TODO</string>
+    <string name="programming">Programming</string>
+    <string name="mathematic">Mathematic</string>
+    <string name="english">English</string>
+    <string name="choose_one_of_the_nquestion_type_below">Choose One Of The \nQuestion Type Below</string>
+    <string name="java_qaysi_dasturlash_tilar_turiga_nmansub">Java qaysi dasturlash tilar turiga \nmansub</string>
+    <string name="programing">Programing</string>
+    <string name="jfkdhjs">Programing</string>
+    <string name="tfkjhnfg">Programing</string>
+    <string name="ftdha">Programing</string>
+    <string name="_1">1</string>
+    <string name="savol">Savol</string>
+    <string name="todo">TODO</string>
+    <string name="corners">corners</string>
+    <string name="hello_world">Hello World</string>
+    <string name="salom_dunyo">Salom dunyo</string>
+    <string name="hayotga_salom">Hayotga salom</string>
+    <string name="qandaysan_dunyo">Qandaysan dunyo</string>
+    <string name="hayot_chiroyli">Hayot chiroyli</string>
+    <string name="subimt">subimt</string>
+    <string name="hfgjf">subimt</string>
+    <string name="raqamlar_nechta">Raqamlar nechta</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+    <string name="_8">8</string>
+    <string name="_11">11</string>
+    <string name="you_winner">You Winner</string>
+    <string name="_99">99</string>
+    <string name="ball">Ball</string>
+    <string name="correct">Correct</string>
+    <string name="error">Error</string>
+    <string name="finish">Finish</string>
+</resources>
